@@ -20,7 +20,8 @@ I'm a Health Data Science graduate student at UCSF with extensive experience in 
 - Applied ML techniques for disease biomarker analysis
 - Created interactive dashboards for 100+ researchers
 - Improved disease target identification efficiency by 30%
-
+* [View Project](https://docs.google.com/presentation/d/175Ml41KqJXd_8Q8rkmfJ0zeWYPiN7W0_6_R-L1X2Yao/edit?usp=sharing)
+  
 ### 3. Single-Cell Type Prediction Model
 **UCSF Single Cell Lab**
 - Achieved 96% accuracy in cell type prediction using ML regression models

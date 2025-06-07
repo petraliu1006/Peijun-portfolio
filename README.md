@@ -4,6 +4,16 @@ Data Scientist specializing in healthcare analytics and bioinformatics | MS Heal
 ## 🎓 About Me
 I'm a Health Data Science graduate student at UCSF with extensive experience in healthcare analytics, bioinformatics, and machine learning. My work focuses on leveraging data science to solve complex healthcare problems, particularly in neurodegenerative diseases and clinical operations.
 
+
+## 🛠️ Technical Skills
+- **Programming Languages**: Python, R, SQL, RedCap, STATA
+- **Machine Learning**: Predictive Modeling, NLP, Random Forest, GLM
+- **Data Visualization**: Tableau, PowerBI, R Shiny
+- **Bioinformatics**: Single-cell analysis, Genomic data analysis
+- **Statistical Analysis**: Regression, Time Series Analysis
+- **Tools**: GitHub, Flask, GCP
+
+  
 ## 🚀 Featured Projects
 
 ### 1. Dementia Risk Prediction Model (2025)
@@ -37,13 +47,6 @@ I'm a Health Data Science graduate student at UCSF with extensive experience in 
 * [View Project](https://ucsfonline-my.sharepoint.com/:w:/g/personal/peijun_liu_ucsf_edu/ETsYI_ndgdZCgCDEOiCecegByRmmLlV85LWWdMFdBONEIw?e=8iqwmW)
 
 
-## 🛠️ Technical Skills
-- **Programming Languages**: Python, R, SQL, RedCap, STATA
-- **Machine Learning**: Predictive Modeling, NLP, Random Forest, GLM
-- **Data Visualization**: Tableau, PowerBI, R Shiny
-- **Bioinformatics**: Single-cell analysis, Genomic data analysis
-- **Statistical Analysis**: Regression, Time Series Analysis
-- **Tools**: GitHub, Flask, GCP
 
 ## 📈 Data Science Projects
 

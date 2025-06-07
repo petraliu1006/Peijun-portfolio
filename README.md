@@ -12,7 +12,7 @@ I'm a Health Data Science graduate student at UCSF with extensive experience in 
 - Implemented advanced statistical analysis and visualization techniques
 - Published in Alzheimer's & Dementia special issue (2025)
 - Presented at 2025 Joint Statistical Meetings
-* [View Project](link-to-project)
+* [View Project](https://github.com/petraliu1006/Non-linear-Z-score-cognitive-detection)
 
 ### 2. Parkinson's Disease Data Integration Platform (2025)
 **Michael J. Fox Foundation**
@@ -38,7 +38,7 @@ I'm a Health Data Science graduate student at UCSF with extensive experience in 
 
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, R, SQL, RedCap, STATA
 - **Machine Learning**: Predictive Modeling, NLP, Random Forest, GLM
 - **Data Visualization**: Tableau, PowerBI, R Shiny
 - **Bioinformatics**: Single-cell analysis, Genomic data analysis
